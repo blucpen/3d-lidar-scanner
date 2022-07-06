@@ -1,0 +1,3 @@
+int64 numberToAverage
+---
+sensor_msgs/LaserScan scan
